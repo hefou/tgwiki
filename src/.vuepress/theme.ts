@@ -16,7 +16,7 @@ export default hopeTheme({
   breadcrumb: false,
   navbar,   // 导航栏
   sidebar,  // 侧边栏
-  footer: "Copyright © 2026 <a href='https://wiki.tgnav.org/' target='_blank'>TGwiki</a> by <a href='https://www.tgnav.org/' target='_blank'>TGNAV</a><br/><span id='busuanzi_container_site_pv'>本站总访问量：<span id='busuanzi_value_site_pv'></span>次</span>",  // 页脚
+  footer: "Copyright © 2026 <a href='https://hefou.github.io/tgwiki/' target='_blank'>TGwiki</a> by <a href='https://github.com/hefou/' target='_blank'>hefou</a><br/><span id='busuanzi_container_site_pv'>本站总访问量：<span id='busuanzi_value_site_pv'></span>次</span>",  // 页脚
   displayFooter: true,
   fullscreen: true,
   // 加密配置
@@ -128,12 +128,12 @@ export default hopeTheme({
           {
             text: "赞助我们",
             type: "primary",
-            link: "https://www.tgnav.org/donate/",
+            link: "https://hefung.github.io/donate",
           },
           {
-            text: "关注Twitter",
+            text: "关注X",
             type: "default",
-            link: "https://www.twitter.com/TGNAVteam",
+            link: "https://x.com/HEFUN,
           },
         ],
       },
