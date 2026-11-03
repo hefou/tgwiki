@@ -133,7 +133,7 @@ export default hopeTheme({
           {
             text: "关注X",
             type: "default",
-            link: "https://x.com/HEFUN,
+            link: "https://x.com/HEFUN",
           },
         ],
       },
