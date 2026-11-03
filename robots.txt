@@ -1,7 +1,7 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://hefou.github.io/tgwiki/sitemap.xml
+Sitemap: https://hefou.github.io/tgwiki/tgwiki/sitemap.xml
 
 
 User-agent:*
