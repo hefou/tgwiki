@@ -5,7 +5,6 @@ import sidebar from "./sidebar.js";
 
 export default hopeTheme({
   hostname: "https://hefou.github.io/tgwiki",
-  base:"/tgwiki/",
   author: {
     name: "TGwiki",
   },
