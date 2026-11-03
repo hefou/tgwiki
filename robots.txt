@@ -1,7 +1,7 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://wiki.tgnav.org/sitemap.xml
+Sitemap: https://hefou.github.io/tgwiki/sitemap.xml
 
 
 User-agent:*
